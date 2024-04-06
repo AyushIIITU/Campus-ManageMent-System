@@ -1,0 +1,19 @@
+.tick-credits{
+    display: none;
+}
+.tick{
+    display: inline !important;
+}
+.hour{
+    display: inline !important;
+}
+.min{
+    display: inline !important;
+}
+div[data-repeat]{
+    display: inline !important;
+}
+.timerindicater{
+    display: flex;
+    justify-content: center;
+}

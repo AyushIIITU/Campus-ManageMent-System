@@ -1,0 +1,8 @@
+.StudentPortalHeader{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    padding-left:9vh ;
+    background: black;
+    
+}

@@ -1,0 +1,7 @@
+.threePostIsAllow{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap !important;
+
+    /* margin-left: 6.5vh; */
+}

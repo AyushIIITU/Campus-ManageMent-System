@@ -1,0 +1,5 @@
+.GardDetails{width: min-content;
+    display: flex;
+    flex-direction: column;
+    float: inline-start;
+}

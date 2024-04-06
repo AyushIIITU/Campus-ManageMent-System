@@ -1,0 +1,30 @@
+.CompalinPost{
+    width: 22vh;
+    margin:1vh;
+    /* margin-right: 1vh; */
+    border-radius: 10%;
+    height: max-content;
+}
+.AlingPostFooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .AlingPostFooterDate{
+    height: fit-content;
+    background: black;
+    color: aliceblue;
+  }
+  .card__span {
+    cursor: pointer;
+    font-size: 11px;
+    position: absolute;
+    background-color: white;
+    top: 10px;
+    left: 10px;
+    padding: 3px 7px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.1s ease-in;
+    user-select: none;
+  }
